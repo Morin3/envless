@@ -109,7 +109,7 @@
     "@types/md5": "^2.3.2",
     "@types/react-query": "^1.2.9",
     "@types/react-syntax-highlighter": "^15.5.7",
-    "@types/testing-library__jest-dom": "^5.14.6",
+    "@types/testing-library__jest-dom": "^6.0.0",
     "@vitejs/plugin-react": "latest",
     "autoprefixer": "10.4.5",
     "colors": "^1.4.0",
