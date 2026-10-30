@@ -43,7 +43,7 @@
     "remark": "^14.0.2",
     "remark-gfm": "^3.0.1",
     "remark-html": "^15.0.2",
-    "zod": "^3.20.6"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.0.2",
